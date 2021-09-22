@@ -17,3 +17,6 @@ After that you can try yourself.
 
 You can find solutions in the solution folder.
     
+**JUST FOR PRACTICE :**
+
+Look into ---> MSSQL-JOINS/Starter/Project/Project/
