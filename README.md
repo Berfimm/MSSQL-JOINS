@@ -2,7 +2,7 @@
 **For open project in the MSSQL :**
 
 
-You can setup AdventureBook and TSQL databases to your database with run setup.cmd (Starter > setup.cmd)
+You can setup AdventureWorks and TSQL databases to your database with run setup.cmd (Starter > setup.cmd)
 
 
 Open project to Mssql solution explorer(Starter > Project > run Project.ssmssln)
